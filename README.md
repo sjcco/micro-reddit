@@ -22,9 +22,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
--Clone the repo "https://github.com/sjcco/micro-reddit.git".
--In the terminal write '''rails console'''.
--Start adding users, posts and comments.
+- Clone the repo "https://github.com/sjcco/micro-reddit.git".
+- In the terminal write '''rails console'''
+- Start adding users, posts and comments.
 
 
 ## Authors
