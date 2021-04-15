@@ -22,9 +22,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-- Clone the repo "https://github.com/sjcco/micro-reddit.git".
-- In the terminal write '''rails console'''
-- Start adding users, posts and comments.
+- Clone the repo with `git clone https://github.com/sjcco/micro-reddit`.
+- In the terminal write `rails console`.
+- To see existing users write `Users.all`.
+- To create a new user write `User.new(username: Example_user_name, email: email@example.com, password: password_example)`.
+- To save a user use `User.save`.
 
 
 ## Authors
