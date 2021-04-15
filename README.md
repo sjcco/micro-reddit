@@ -1,24 +1,54 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro-Reddit
 
-Things you may want to cover:
+> Let’s build Reddit. Well, maybe a very junior version of it called micro-reddit..
 
-* Ruby version
+In this project we:
 
-* System dependencies
+-Made a model for users.
+-Made a model for posts.
+-Made a model for comments.
+-Made validations for their inputs.
+-Made associations between the user, the post and the comment model.
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Rails
+- SQLite3
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+-Clone the repo "https://github.com/sjcco/micro-reddit.git".
+-In the terminal write '''rails console'''.
+-Start adding users, posts and comments.
 
-* Deployment instructions
 
-* ...
+## Authors
+
+👤 **Juan Carlos Campos**
+
+- GitHub: [@sjcco](https://github.com/githubhandle)
+- Twitter: [@CarlosCamposO](https://twitter.com/CarlosCamposO)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sjcco/micro-reddit/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse team
+- The Odin Project
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
